@@ -5,6 +5,8 @@
 
 💬 Ask me about nvim and i3-wm.
 
+📫 How to reach me: allen191819@whu.edu.cn
+
 ![qianhua](qianhua.jpg) 
 <!--
 **Allen191819/Allen191819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
