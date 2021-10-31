@@ -5,7 +5,6 @@
 
 💬 Ask me about nvim and i3-wm.
 
-📫 How to reach me: allen191819@whu.edu.cn
 
 ![qianhua](qianhua.jpg) 
 <!--
