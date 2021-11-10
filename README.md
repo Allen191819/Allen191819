@@ -5,6 +5,7 @@
 
 💬 Ask me about nvim and i3-wm.
 
+😄 My site is published at here(https://allen191819.github.io/).
 
 ![qianhua](qianhua.jpg) 
 <!--
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 <table border="0">
