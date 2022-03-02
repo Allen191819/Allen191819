@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning python.
+🌱 I’m currently learning haskell.
 
-💬 Ask me about nvim and i3-wm.
+💬 Ask me about nvim and dwm.
 
 😄 My site is published at here(https://allen191819.github.io/).
 
