@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning haskell.
+🌱 I’m currently learning haskell and coq.
 
 💬 Ask me about nvim and dwm.
 
