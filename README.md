@@ -5,7 +5,7 @@
 
 💬 Ask me about nvim and dwm.
 
-😄 My site is published at here(https://allen191819.github.io/).
+😄 My site is published at here(https://allen191819.xyz/).
 
 ![qianhua](qianhua.jpg) 
 <!--
